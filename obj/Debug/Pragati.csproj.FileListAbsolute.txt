@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Pragati\bin\Debug\Pragati.exe.config
+C:\Users\DELL\source\repos\Pragati\bin\Debug\Pragati.exe
+C:\Users\DELL\source\repos\Pragati\bin\Debug\Pragati.pdb
+C:\Users\DELL\source\repos\Pragati\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.AddCategory.resources
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.AddProducts.resources
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.Form1.resources
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.Products.resources
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.Properties.Resources.resources
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.ViewC.resources
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.csproj.CopyComplete
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.exe
+C:\Users\DELL\source\repos\Pragati\obj\Debug\Pragati.pdb
